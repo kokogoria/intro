@@ -1,6 +1,6 @@
 あぼぼぼ
 hihihihihihi
-fofofoo
+
 
 {\rtf1\ansi\ansicpg932\cocoartf2511
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset128 HiraginoSans-W3;\f2\fnil\fcharset0 STIXGeneral-Regular;
